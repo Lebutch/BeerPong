@@ -15,6 +15,7 @@ Pour s’assurer que la machine soit toujours efficace, sous chaque verre, il y 
 Comme illustré dans les images et les vidéos du making of, nous avons été capables de faire fonctionner la table et le lanceur parfaitement.  La machine arrivait à entrer les balles un peu plus de 3 fois sur 5.  
 
 Nous avons eu un problème lors du montage de la table.  En finalisant la décoration de la table et en rendant notre réseau de câbles plus minimaliste et plus efficace, nous avons accroché le moteur, ce qui a abimé le roulement à l’intérieur.  Depuis ce moment, il y a un petit délai lors de la montée du bras du lanceur ce qui enlève de la force au lancer.  La balle n’atteint plus les coordonnées désirées.  Nous avons essayé de changer l’angle du moteur, démonter le moteur et le remonter pour nous assurer que tout était bien à sa place et nous avons aussi essayé de changer l’angle de départ pour réussir tout de même à atteindre les verres.  Malheureusement, rien de ces solutions n’ont plus résoudre notre problème.    
+
   **Making Of**    
 
 ![](image/1.JPG)
@@ -22,9 +23,13 @@ Nous avons eu un problème lors du montage de la table.  En finalisant la décor
 ![](image/4.JPG)
 ![](image/6.JPG)
 ![](image/7.JPG)
+
 [Test entrepôt 1](https://vimeo.com/114377254)
+
 [Test entrepôt 2](https://vimeo.com/114377253)
+
 [test 1](https://vimeo.com/114377255)
+
 [test 2](https://vimeo.com/114378238)
 
 
