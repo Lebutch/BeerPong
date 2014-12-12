@@ -17,6 +17,8 @@ Comme illustrer dans les images et les vidéos du making of, nous avons été ca
 Nous avons eu un problème lors du montage de la table.  En finalisant la décoration de la table et en rendant notre réseau de câbles plus minimaliste et plus efficace, nous avons accroché le moteur, ce qui à abimer le roulement à l’intérieur.  Depuis ce moment, il y a un petit délai lors de la monté du bras du lanceur ce qui enlève de la force au lancer.  La balle n’atteint plus les coordonnées désirés.  Nous avons essayer de changer l’angle du moteur, démontrer le moteur et le remonter pour s’assurer que tout était bien à sa place et nous avons aussi essayer de changer l’angle de départ pour réussir tout de même à atteindre les verres.  Malheureusement, rien de ces solutions n’ont plus résoudre notre problème.
 Making Of
 
+![](image/1.JPG)
+
 ###Code arduino
 
 ```
