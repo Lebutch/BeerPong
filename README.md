@@ -15,10 +15,13 @@ Pour s’assurer que la machine soit toujours efficace, sous chaque verre, il y 
 Comme illustrer dans les images et les vidéos du making of, nous avons été capable de faire fonctionner la table et le lanceur parfaitement.  La machine arrivait à entrer les balles un peu plus de 3 fois sur 5.  
 
 Nous avons eu un problème lors du montage de la table.  En finalisant la décoration de la table et en rendant notre réseau de câbles plus minimaliste et plus efficace, nous avons accroché le moteur, ce qui à abimer le roulement à l’intérieur.  Depuis ce moment, il y a un petit délai lors de la monté du bras du lanceur ce qui enlève de la force au lancer.  La balle n’atteint plus les coordonnées désirés.  Nous avons essayer de changer l’angle du moteur, démontrer le moteur et le remonter pour s’assurer que tout était bien à sa place et nous avons aussi essayer de changer l’angle de départ pour réussir tout de même à atteindre les verres.  Malheureusement, rien de ces solutions n’ont plus résoudre notre problème.
-Making Of
+Making Of  
 
 ![](image/1.JPG)
-![](image/5.MOV)
+![](image/2.JPG)
+![](image/4.JPG)
+![](image/6.JPG)
+![](image/7.JPG)
 
 ###Code arduino
 
