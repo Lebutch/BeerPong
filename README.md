@@ -6,15 +6,15 @@
 
 **Concept**
 
-Automatic Beer Pong launcher, à pour objectif de pouvoir lancer automatiquement 6 balles de Beer Pong dans 6 verres en une seule séquence.  Contrôlé par arduino et par une patch MAX,  le lanceur alterne entre différentes données pré programmer pour être en mesure de rentrer la balle à toute les fois.
+Automatic Beer Pong launcher, a pour objectif de pouvoir lancer automatiquement 6 balles de Beer Pong dans 6 verres en une seule séquence.  Contrôlé par arduino et par une patch MAX,  le lanceur alterne entre différentes données préprogrammer pour être en mesure de rentrer la balle toutes les fois.
 
-Pour s’assurer que la machine soit toujours efficace, sous chaque verre, il y a un capteur de vélocité. Ces capteurs permettent d’envoyer une rétroaction au lanceur.  Lorsqu’une balle entre dans un verre et que le verre est ensuite retiré pour être bu, le capteur aura une vélocité de plus ou moins zéro, ce qui enverra comme message au lanceur de ne plus essayer de lancer la balle à cette endroit.  Une fois tous les verres retirés, l’utilisateur peut redémarrer la machiner avec l’application OSC pour iPhone ou iPad.
+Pour s’assurer que la machine soit toujours efficace, sous chaque verre, il y a un capteur de vélocité. Ces capteurs permettent d’envoyer une rétroaction au lanceur.  Lorsqu’une balle entre dans un verre et que le verre est ensuite retiré pour être bu, le capteur aura une vélocité de plus ou moins zéro, ce qui enverra comme message au lanceur de ne plus essayer de lancer la balle à cet endroit.  Une fois tous les verres retirés, l’utilisateur peut redémarrer la machiner avec l’application OSC pour iPhone ou iPad.
 
 **Fonctionnement**
 
-Comme illustrer dans les images et les vidéos du making of, nous avons été capable de faire fonctionner la table et le lanceur parfaitement.  La machine arrivait à entrer les balles un peu plus de 3 fois sur 5.  
+Comme illustré dans les images et les vidéos du making of, nous avons été capables de faire fonctionner la table et le lanceur parfaitement.  La machine arrivait à entrer les balles un peu plus de 3 fois sur 5.  
 
-Nous avons eu un problème lors du montage de la table.  En finalisant la décoration de la table et en rendant notre réseau de câbles plus minimaliste et plus efficace, nous avons accroché le moteur, ce qui à abimer le roulement à l’intérieur.  Depuis ce moment, il y a un petit délai lors de la monté du bras du lanceur ce qui enlève de la force au lancer.  La balle n’atteint plus les coordonnées désirés.  Nous avons essayer de changer l’angle du moteur, démontrer le moteur et le remonter pour s’assurer que tout était bien à sa place et nous avons aussi essayer de changer l’angle de départ pour réussir tout de même à atteindre les verres.  Malheureusement, rien de ces solutions n’ont plus résoudre notre problème.    
+Nous avons eu un problème lors du montage de la table.  En finalisant la décoration de la table et en rendant notre réseau de câbles plus minimaliste et plus efficace, nous avons accroché le moteur, ce qui a abimé le roulement à l’intérieur.  Depuis ce moment, il y a un petit délai lors de la montée du bras du lanceur ce qui enlève de la force au lancer.  La balle n’atteint plus les coordonnées désirées.  Nous avons essayé de changer l’angle du moteur, démonter le moteur et le remonter pour nous assurer que tout était bien à sa place et nous avons aussi essayé de changer l’angle de départ pour réussir tout de même à atteindre les verres.  Malheureusement, rien de ces solutions n’ont plus résoudre notre problème.    
   **Making Of**    
 
 ![](image/1.JPG)
@@ -22,10 +22,10 @@ Nous avons eu un problème lors du montage de la table.  En finalisant la décor
 ![](image/4.JPG)
 ![](image/6.JPG)
 ![](image/7.JPG)
-![](image/10.JPG)](https://www.vimeo.com)
-![](image/12.JPG)](https://www.vimeo.com)
-![](image/13.JPG)](https://www.vimeo.com)
-![](image/14.JPG)](https://www.vimeo.com)
+[Test entrepôt 1](https://vimeo.com/114377254)
+[Test entrepôt 2](https://vimeo.com/114377253)
+[test 1](https://vimeo.com/114377255)
+[test 2](https://vimeo.com/114378238)
 
 
 ###Code arduino
