@@ -22,10 +22,10 @@ Nous avons eu un problème lors du montage de la table.  En finalisant la décor
 ![](image/4.JPG)
 ![](image/6.JPG)
 ![](image/7.JPG)
-![](image/10.PNG)
-![](image/12.PNG)
-![](image/11.PNG)
-![](image/13.PNG)
+![](image/10.JPG)
+![](image/12.JPG)
+![](image/11.JPG)
+![](image/13.JPG)
 
 
 ###Code arduino
