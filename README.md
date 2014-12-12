@@ -18,6 +18,7 @@ Nous avons eu un problème lors du montage de la table.  En finalisant la décor
 Making Of
 
 ![](image/1.JPG)
+![](image/5.MOV)
 
 ###Code arduino
 
